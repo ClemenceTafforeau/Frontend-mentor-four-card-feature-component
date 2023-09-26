@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/ClemenceTafforeau/Frontend-mentor-four-card-feature-component]
+- Live Site URL: [https://clemencetafforeau.github.io/Frontend-mentor-four-card-feature-component/]
 
 ## My process
 
